@@ -64,10 +64,3 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter"  alt="CodeIgniter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp; </p>
 
-
-
----
-
-Made with ❤️.
-
-<a href="https://heroku.com/"><img alt="Powered by SuperCoreDev" title="Powered by SuperCoreDev" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
