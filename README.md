@@ -70,5 +70,4 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 
 Made with ❤️.
 
-<a href="https://heroku.com/"><img alt="Powered by Hetape" title="Powered by Hetape" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+<a href="https://heroku.com/"><img alt="Powered by SuperCoreDev" title="Powered by SuperCoreDev" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
